@@ -3,5 +3,5 @@
 To run the code:
 
 ```
-python main.py
+python dual-constraint-fairness.py
 ```
